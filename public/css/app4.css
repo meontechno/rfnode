@@ -1,0 +1,32 @@
+#vid2 {
+    width: 100% !important;    
+}
+
+#quotes{
+	height: 1.8rem;
+	width: 1.8rem;
+}
+
+.reference{
+	font-size: 0.9rem;
+	font-style: italic;
+	font-weight: bolder;
+	color: #2e2e2e;
+}
+
+#service_rows1{
+	margin-top: 0.6rem;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	
+}
+
+#service_rows2{	
+		
+	margin-top: 1rem;
+}
+
+#testi_column{
+	padding-right: 3rem;
+	padding-left: 3rem; 
+}

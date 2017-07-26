@@ -1,0 +1,30 @@
+
+.accordion{
+	margin-bottom: 2rem;
+}
+
+.accordion-item:first-child > :first-child {
+    padding: 0.8rem 1rem;
+}
+
+.accordion-title{
+  padding: 0.8rem 1rem;
+}
+
+.accordion-content{
+	 padding: 0.5rem 1rem;
+}
+
+.accordion a{
+	font-size: 1rem;
+	line-height: 1.5rem;
+	color: rgba(15, 78, 175, 1);	
+}
+
+.accordion-content p{
+	color: rgba(0, 0, 0, 0.75);
+	font-size: 0.8rem;
+	line-height: 1.5rem;
+	margin-bottom: 0;
+}
+
